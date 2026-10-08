@@ -1,0 +1,5 @@
+{
+    "require": {
+        "amreljako/laravel-secure-headers": "^1.0"
+    }
+}

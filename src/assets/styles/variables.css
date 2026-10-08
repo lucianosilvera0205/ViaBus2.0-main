@@ -1,0 +1,21 @@
+:root {
+
+  /* COLOR PRINCIPAL */
+  --color-fondo: #050816;
+
+  /* SIDEBAR */
+  --color-sidebar: #0b1023;
+
+  /* AMARILLO TERMINAL */
+  --color-principal: #f4b400;
+
+  /* TEXTO */
+  --color-texto: #ffffff;
+
+  /* TEXTO SECUNDARIO */
+  --color-secundario: #7b8198;
+
+  /* HOVER */
+  --color-hover: #1a2138;
+
+}

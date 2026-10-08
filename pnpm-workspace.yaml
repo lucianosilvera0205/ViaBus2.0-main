@@ -1,0 +1,13 @@
+packages:
+  - '.'
+  - 'viabus-backend'
+
+shamefullyHoist: true
+
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - esbuild
+
+allowBuilds:
+  '@parcel/watcher': false
+  esbuild: true

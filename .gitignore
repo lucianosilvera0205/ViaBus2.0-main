@@ -1,0 +1,24 @@
+# --- Dependencias de Node (Vue/Quasar) ---
+node_modules/
+
+node_modules/
+/dist/
+/.quasar/
+*.log
+
+# --- Dependencias de PHP ---
+vendor/
+
+# --- Base de Datos Local ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Seguridad y Configuración ---
+.env
+.env.local
+
+# --- Sistema Operativo (Linux) ---
+.DS_Store
+*~
+*.swp
